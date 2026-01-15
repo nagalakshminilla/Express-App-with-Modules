@@ -1,0 +1,7 @@
+This is some sample data inside Data.txt.
+Welcome to the Express modules assignment!
+This file demonstrates reading file content using fs module.
+Line 1: Learning Express.js
+Line 2: Working with file system
+Line 3: Getting system details
+Line 4: DNS resolution example
